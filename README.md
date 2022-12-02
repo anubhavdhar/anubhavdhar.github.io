@@ -7,4 +7,4 @@ HTML Files:
 3. personal.html
 4. boro_bholluk.html
 
-date: 2nd December 2022
+Date: 3rd December 2022
